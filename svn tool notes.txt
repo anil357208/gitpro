@@ -31,7 +31,8 @@ GIT Vs GITHUB
 -> working area containes physical files where developer is changing frequently ( untracking )
 -> staging area containes all tracked files (about to commit)
 -> all commited files will move to local repository
--> finally we can push a
+-> finally we can push a code from local repo to remote repo
+all the updates will maintain automatically
 
 --------------------------------------------------------------
 
