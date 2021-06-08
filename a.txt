@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 today the session has been cancelled due to power issues and the next class will be resumed on next day at same time
+=======
+dghsbkjd
+dgskdslfileldi am going to change the code to get conflicts and to trying to resolve the issues so please be patitent
+\n im trying to change the problem
+/n shutdown your lap and go to bed leave the issue
+>>>>>>> raa
